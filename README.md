@@ -1,3 +1,4 @@
+[![Board Status](https://midhubalan.visualstudio.com/b0eb07f2-a7fd-44c4-a198-4b51974af22e/43b6c85b-366e-4e18-a4f4-9eed410b88be/_apis/work/boardbadge/9ec1fc6c-8483-4566-851c-b4b9ec4b031b)](https://midhubalan.visualstudio.com/b0eb07f2-a7fd-44c4-a198-4b51974af22e/_boards/board/t/43b6c85b-366e-4e18-a4f4-9eed410b88be/Microsoft.RequirementCategory)
 # Welcome to the exercise on installing GitHub Apps!
 
 This exercise checks your ability to manage GitHub Apps for your organization. It is automatically graded via a workflow once you have completed the instructions.
